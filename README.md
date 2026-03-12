@@ -6,7 +6,7 @@ In this mini-project, I take a look into 311 service request data from the City 
 ## Background
 While studying for Data Analyst certification on DataCamp, some of the instructional videos utilized Evanston, Illinois' 311 request data. As a Chicago resident,
 this caught my eye and inspired me to look up if my city also published it's 311 data. As you may have guessed,
-they do in fact publish it for public viewing/downloading! 
+[they do in fact publish it for public viewing/downloading](https://data.cityofchicago.org/Service-Requests/311-Service-Requests/v6vf-nfxy/about_data)! 
 
 ## Main Goals
 
